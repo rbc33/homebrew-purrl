@@ -1,6 +1,6 @@
 cask "purrl" do
-  version "1.0.3"
-  sha256 "aa8f38b1c515d88def1a70624b73d7506aeac1815692626304c6c2559cf065a9"
+  version "1.0.4"
+  sha256 "7ae56a51ccc97b6313673c3c53de83c1251acaf622d95727c40cb51399bcdefa"
 
   url "https://github.com/rbc33/Purrl/releases/download/v#{version}/Purrl.dmg"
   name "Purrl"
